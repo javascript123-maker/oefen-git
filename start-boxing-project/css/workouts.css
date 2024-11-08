@@ -1,0 +1,44 @@
+.bar {
+  display: inline-block;
+  margin-left: 20px;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.text-trainings {
+  display: flex;
+  flex-direction: row;
+  width: 100px;
+  justify-content: space-between;
+  
+   
+}
+
+.text-trainings-p {
+  width: 50px;
+  height: 50px;
+  margin-right: 50px;
+}
+
+.date,
+.excercise,
+.repetitions,
+.time {
+ width: 100px;
+ display: flex;
+ background-color: blue;
+}
+
+.add-button {
+ background-color: blue;
+ width: 100px;
+ 
+}
+
+button {
+  color: blue;
+  width: 200px;
+  margin-top: 10px;
+  
+}
